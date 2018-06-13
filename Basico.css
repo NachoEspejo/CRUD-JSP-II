@@ -1,0 +1,20 @@
+div#WPB{
+  background-image: url("img/Banner.png");
+}
+
+body#WP{
+  background-image: url("img/WP.jpg");
+}
+
+body#R{
+  background-image: url("img/Recluta.jpg");
+  color: white;
+}
+
+body#M{
+  background-image: url("img/Modifica.jpg");
+}
+
+body#D{
+  background-image: url("img/Detalle.jpg");
+}
