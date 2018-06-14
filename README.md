@@ -12,11 +12,15 @@ Este crud permite al usuario ver los miembros de las distintas facciones del uni
 
 ## Base de datos
 
-<img width="640px" src="/img/BD.png">
+<img width="640px" src="/img/BDF.png">
+
+## Página de Login
+
+<img width="640px" src="/img/Login.png">
 
 ## Página principal
 
-<img width="640px" src="/img/Personajes.png">
+<img width="640px" src="/img/PersonajesF.png">
 
 ## Añadir tripulante
 
@@ -28,7 +32,7 @@ Este crud permite al usuario ver los miembros de las distintas facciones del uni
 
 ## Modificar trupulante
 
-<img width="640px" src="/img/Modificar.png">
+<img width="640px" src="/img/ModificarF.png">
 
 ## Tripulante modificado
 
