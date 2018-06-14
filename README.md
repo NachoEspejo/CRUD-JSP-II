@@ -22,18 +22,14 @@ Este crud permite al usuario ver los miembros de las distintas facciones del uni
 
 <img width="640px" src="/img/PersonajesF.png">
 
-## Añadir tripulante
-
-<img width="640px" src="/img/PJ-Prueba.png">
-
 ## Tripulante añadido correctamente
 
-<img width="640px" src="/img/PJ-Exito.png">
+<img width="640px" src="/img/PJ-ExitoF.png">
 
-## Modificar trupulante
+## Modificar tripulante
 
 <img width="640px" src="/img/ModificarF.png">
 
-## Tripulante modificado
+## Buscador de tripulantes
 
-<img width="640px" src="/img/PJ-Rebelde.png">
+<img width="640px" src="/img/Resultado-BuscadorF.png">
