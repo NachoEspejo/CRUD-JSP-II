@@ -33,11 +33,14 @@
     
     <%
            
+            String Historia = listado.getString("Historia");
             String Equipo = listado.getString("Equipo");
 
-            List<String> equipo = new ArrayList();
-            equipo.add(
+            List<String> infopj = new ArrayList();
+            infopj.add(
                     0, Equipo);
+            infopj.add(
+                    1, Historia);
 
     %> 
         
@@ -49,12 +52,12 @@
           <h5 class="center"><%=listado.getString("nombre") %></h5>
             <p>
               <i class="material-icons teal-text">label_outline</i> Historia: 
-              <b><%=listado.getString("Historia") %></b>
+              <b><%=infopj.get(1)%></b>
             </p>
             <br>
             <p>
                 <i class="material-icons teal-text">label_outline</i> Equipo: 
-                <b><%=equipo.get(0)%></b>
+                <b><%=infopj.get(0)%></b>
             </p><br>
             <p class="center">
               <a href="Plantilla.jsp" class="btn waves-effect waves-light center">
